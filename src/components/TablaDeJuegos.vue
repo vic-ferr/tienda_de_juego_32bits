@@ -31,7 +31,7 @@ export default {
     props: {
         busqueda: {
             type: String,
-            default: () => ""
+            default: "",
         },
     },
     computed: {
